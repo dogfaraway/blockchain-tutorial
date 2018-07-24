@@ -1,4 +1,4 @@
-# 区块链通识教程 [![Awesome](https://awesome.re/badge.svg)](https://github.com/yjjnls/awesome-blockchain)
+# 深入浅出区块链教程 [![Awesome](https://awesome.re/badge.svg)](https://github.com/yjjnls/awesome-blockchain)
 ## 区块链基础
 * [到底什么才是区块链?](doc/01.到底什么才是区块链.md)
 * [区块链到底是怎么运行的?](doc/02.区块链到底是怎么运行的.md)
